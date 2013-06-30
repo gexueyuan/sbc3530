@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/esi/!svn/ver/3/Linux/U-boot/include/mtd
+END
+ubi-user.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/include/mtd/ubi-user.h
+END
+cfi_flash.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/include/mtd/cfi_flash.h
+END

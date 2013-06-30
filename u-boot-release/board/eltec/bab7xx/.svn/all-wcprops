@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx
+END
+el_srom.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/el_srom.c
+END
+l2cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/l2cache.c
+END
+asm_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/asm_init.S
+END
+srom.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/srom.h
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/u-boot.lds
+END
+dc_srom.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/dc_srom.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/config.mk
+END
+bab7xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/bab7xx.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/misc.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/board/eltec/bab7xx/flash.c
+END

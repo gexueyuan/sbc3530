@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/board/davedenx/aria
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/davedenx/aria/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/board/davedenx/aria/Makefile
+END
+aria.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/board/davedenx/aria/aria.c
+END

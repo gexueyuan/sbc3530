@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/esi/!svn/ver/3/Linux/U-boot/board/ep8248
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/ep8248/config.mk
+END
+ep8248.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/board/ep8248/ep8248.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/board/ep8248/Makefile
+END

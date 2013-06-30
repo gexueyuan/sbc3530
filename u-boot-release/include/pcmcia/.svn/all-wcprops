@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esi/!svn/ver/3/Linux/U-boot/include/pcmcia
+END
+ti113x.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/include/pcmcia/ti113x.h
+END
+i82365.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/include/pcmcia/i82365.h
+END
+yenta.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/include/pcmcia/yenta.h
+END
+ss.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/include/pcmcia/ss.h
+END
+cirrus.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/include/pcmcia/cirrus.h
+END

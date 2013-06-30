@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/esi/!svn/ver/3/Linux/U-boot/post/drivers
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/post/drivers/memory.c
+END
+rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/esi/!svn/ver/3/Linux/U-boot/post/drivers/rtc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/post/drivers/Makefile
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/esi/!svn/ver/3/Linux/U-boot/post/drivers/i2c.c
+END

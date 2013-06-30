@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/board/total5200
+END
+mt48lc32m16a2-75.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/board/total5200/mt48lc32m16a2-75.h
+END
+sdram.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/total5200/sdram.c
+END
+mt48lc16m16a2-75.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/board/total5200/mt48lc16m16a2-75.h
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/total5200/config.mk
+END
+total5200.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/total5200/total5200.c
+END
+sdram.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/total5200/sdram.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/board/total5200/Makefile
+END

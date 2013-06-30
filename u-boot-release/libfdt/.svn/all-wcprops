@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/esi/!svn/ver/3/Linux/U-boot/libfdt
+END
+fdt_strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/libfdt/fdt_strerror.c
+END
+fdt_rw.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/libfdt/fdt_rw.c
+END
+libfdt_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/libfdt/libfdt_internal.h
+END
+fdt_sw.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/libfdt/fdt_sw.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/libfdt/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/esi/!svn/ver/3/Linux/U-boot/libfdt/README
+END
+fdt_wip.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/libfdt/fdt_wip.c
+END
+fdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/esi/!svn/ver/3/Linux/U-boot/libfdt/fdt.c
+END
+fdt_ro.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/libfdt/fdt_ro.c
+END

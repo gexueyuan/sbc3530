@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/esi/!svn/ver/3/Linux/U-boot/fs/cramfs
+END
+uncompress.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/fs/cramfs/uncompress.c
+END
+cramfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/esi/!svn/ver/3/Linux/U-boot/fs/cramfs/cramfs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/esi/!svn/ver/3/Linux/U-boot/fs/cramfs/Makefile
+END

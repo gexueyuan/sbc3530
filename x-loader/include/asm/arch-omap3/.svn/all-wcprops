@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3
+END
+mux.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/mux.h
+END
+sys_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/sys_info.h
+END
+mmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/mmc.h
+END
+rev.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/rev.h
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/i2c.h
+END
+sizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/sizes.h
+END
+clocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/clocks.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/mem.h
+END
+clocks343x.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/clocks343x.h
+END
+bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/bits.h
+END
+sys_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/sys_proto.h
+END
+omap3430.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/omap3430.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/cpu.h
+END
+mmc_host_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-omap3/mmc_host_def.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ema3530/!svn/ver/11/software/x-loader/include/configs
+END
+overo.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ema3530/!svn/ver/11/software/x-loader/include/configs/overo.h
+END
+omap2430sdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ema3530/!svn/ver/11/software/x-loader/include/configs/omap2430sdp.h
+END
+omap3430labrador.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ema3530/!svn/ver/11/software/x-loader/include/configs/omap3430labrador.h
+END
+omap3430sdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ema3530/!svn/ver/11/software/x-loader/include/configs/omap3430sdp.h
+END
+omap3530stalker.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ema3530/!svn/ver/11/software/x-loader/include/configs/omap3530stalker.h
+END
+omap1710h3.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ema3530/!svn/ver/11/software/x-loader/include/configs/omap1710h3.h
+END
+omap2420h4.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ema3530/!svn/ver/11/software/x-loader/include/configs/omap2420h4.h
+END
+sbc3530.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ema3530/!svn/ver/33/software/x-loader/include/configs/sbc3530.h
+END
+omap1510.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ema3530/!svn/ver/11/software/x-loader/include/configs/omap1510.h
+END
+omap3530beagle.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ema3530/!svn/ver/11/software/x-loader/include/configs/omap3530beagle.h
+END
+omap3evm.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ema3530/!svn/ver/11/software/x-loader/include/configs/omap3evm.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/fpga
+END
+stratixII.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/fpga/stratixII.c
+END
+virtex2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/fpga/virtex2.c
+END
+altera.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/fpga/altera.c
+END
+cyclon2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/fpga/cyclon2.c
+END
+spartan2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/fpga/spartan2.c
+END
+spartan3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/fpga/spartan3.c
+END
+xilinx.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/fpga/xilinx.c
+END
+ACEX1K.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/fpga/ACEX1K.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/fpga/Makefile
+END
+fpga.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/fpga/fpga.c
+END

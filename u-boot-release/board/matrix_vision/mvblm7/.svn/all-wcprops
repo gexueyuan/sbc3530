@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/board/matrix_vision/mvblm7
+END
+mvblm7_autoscript
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esi/!svn/ver/3/Linux/U-boot/board/matrix_vision/mvblm7/mvblm7_autoscript
+END
+fpga.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/matrix_vision/mvblm7/fpga.h
+END
+mvblm7.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/matrix_vision/mvblm7/mvblm7.c
+END
+mvblm7.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/matrix_vision/mvblm7/mvblm7.h
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/board/matrix_vision/mvblm7/config.mk
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/matrix_vision/mvblm7/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/matrix_vision/mvblm7/Makefile
+END
+fpga.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/matrix_vision/mvblm7/fpga.c
+END

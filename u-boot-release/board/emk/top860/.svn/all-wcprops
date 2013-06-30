@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/board/emk/top860
+END
+top860.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/emk/top860/top860.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/emk/top860/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/board/emk/top860/config.mk
+END
+u-boot.lds.debug
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/emk/top860/u-boot.lds.debug
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/emk/top860/Makefile
+END

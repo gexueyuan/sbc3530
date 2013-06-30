@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ema3530/!svn/ver/10/software/x-loader
+END
+signGP
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ema3530/!svn/ver/11/software/x-loader/signGP
+END
+signGP.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ema3530/!svn/ver/11/software/x-loader/signGP.c
+END
+arm_config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ema3530/!svn/ver/11/software/x-loader/arm_config.mk
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ema3530/!svn/ver/11/software/x-loader/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ema3530/!svn/ver/33/software/x-loader/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ema3530/!svn/ver/11/software/x-loader/README
+END
+mkconfig
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ema3530/!svn/ver/11/software/x-loader/mkconfig
+END

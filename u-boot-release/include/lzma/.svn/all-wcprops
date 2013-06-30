@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/esi/!svn/ver/3/Linux/U-boot/include/lzma
+END
+LzmaDec.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/include/lzma/LzmaDec.h
+END
+LzmaTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/include/lzma/LzmaTools.h
+END
+LzmaTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/include/lzma/LzmaTypes.h
+END

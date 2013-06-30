@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tb0229
+END
+tb0229.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tb0229/tb0229.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tb0229/u-boot.lds
+END
+vr4131-pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tb0229/vr4131-pci.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tb0229/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tb0229/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tb0229/lowlevel_init.S
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tb0229/flash.c
+END

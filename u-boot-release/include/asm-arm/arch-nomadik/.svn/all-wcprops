@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-nomadik
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-nomadik/gpio.h
+END
+mtu.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-nomadik/mtu.h
+END

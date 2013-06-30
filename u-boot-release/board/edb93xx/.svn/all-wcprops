@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/esi/!svn/ver/3/Linux/U-boot/board/edb93xx
+END
+early_udelay.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/board/edb93xx/early_udelay.h
+END
+sdram_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/edb93xx/sdram_cfg.c
+END
+edb93xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/edb93xx/edb93xx.c
+END
+pll_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/edb93xx/pll_cfg.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/edb93xx/config.mk
+END
+sdram_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/edb93xx/sdram_cfg.h
+END
+pll_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/edb93xx/pll_cfg.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/edb93xx/Makefile
+END
+flash_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/edb93xx/flash_cfg.c
+END

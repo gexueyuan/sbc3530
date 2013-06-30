@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm920t/s3c24x0
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm920t/s3c24x0/interrupts.c
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm920t/s3c24x0/speed.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm920t/s3c24x0/timer.c
+END
+usb_ohci.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm920t/s3c24x0/usb_ohci.h
+END
+usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm920t/s3c24x0/usb.c
+END
+usb_ohci.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm920t/s3c24x0/usb_ohci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm920t/s3c24x0/Makefile
+END

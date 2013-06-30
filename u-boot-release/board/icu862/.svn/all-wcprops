@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/esi/!svn/ver/3/Linux/U-boot/board/icu862
+END
+icu862.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/board/icu862/icu862.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/icu862/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/icu862/config.mk
+END
+u-boot.lds.debug
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/icu862/u-boot.lds.debug
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/board/icu862/Makefile
+END
+pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/board/icu862/pcmcia.c
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/board/icu862/flash.c
+END

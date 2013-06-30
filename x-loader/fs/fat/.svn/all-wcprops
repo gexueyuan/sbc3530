@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ema3530/!svn/ver/11/software/x-loader/fs/fat
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ema3530/!svn/ver/11/software/x-loader/fs/fat/file.c
+END
+fat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ema3530/!svn/ver/11/software/x-loader/fs/fat/fat.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ema3530/!svn/ver/11/software/x-loader/fs/fat/Makefile
+END

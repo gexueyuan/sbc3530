@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/speed.c
+END
+resetvec.S
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/resetvec.S
+END
+release.S
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/release.S
+END
+u-boot-nand_spl.lds
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/u-boot-nand_spl.lds
+END
+ddr-gen1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/ddr-gen1.c
+END
+ddr-gen2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/ddr-gen2.c
+END
+ddr-gen3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/ddr-gen3.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/u-boot.lds
+END
+cpu_init_early.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/cpu_init_early.c
+END
+serial_scc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/serial_scc.c
+END
+mpc8536_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/mpc8536_serdes.c
+END
+cpu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/cpu_init.c
+END
+cpu_init_nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/cpu_init_nand.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/pci.c
+END
+mp.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/mp.c
+END
+fdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/fdt.c
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/start.S
+END
+fixed_ivor.S
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/fixed_ivor.S
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/interrupts.c
+END
+commproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/commproc.c
+END
+mp.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/mp.h
+END
+tlb.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/tlb.c
+END
+ether_fcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/ether_fcc.c
+END
+u-boot-nand.lds
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/u-boot-nand.lds
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/cpu.c
+END
+traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/traps.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/Makefile
+END
+qe_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc85xx/qe_io.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/board/ema/stalker
+END
+logo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/board/ema/stalker/logo.h
+END
+stalker.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/ema/stalker/stalker.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/ema/stalker/config.mk
+END
+stalker.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/ema/stalker/stalker.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/board/ema/stalker/Makefile
+END

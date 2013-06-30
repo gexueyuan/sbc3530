@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/bios_emulator/include
+END
+x86emu.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/bios_emulator/include/x86emu.h
+END
+biosemu.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/bios_emulator/include/biosemu.h
+END

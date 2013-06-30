@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/m5253evbe
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/m5253evbe/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/m5253evbe/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/m5253evbe/Makefile
+END
+m5253evbe.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/m5253evbe/m5253evbe.c
+END

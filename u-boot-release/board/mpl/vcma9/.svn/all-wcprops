@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/board/mpl/vcma9
+END
+vcma9.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/mpl/vcma9/vcma9.c
+END
+cmd_vcma9.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/mpl/vcma9/cmd_vcma9.c
+END
+vcma9.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/mpl/vcma9/vcma9.h
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/mpl/vcma9/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/board/mpl/vcma9/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/mpl/vcma9/lowlevel_init.S
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/mpl/vcma9/flash.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc832xemds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc832xemds/config.mk
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc832xemds/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc832xemds/Makefile
+END
+mpc832xemds.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc832xemds/mpc832xemds.c
+END

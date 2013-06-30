@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/board/lpc2292sodimm
+END
+lpc2292sodimm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/lpc2292sodimm/lpc2292sodimm.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/lpc2292sodimm/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/board/lpc2292sodimm/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/lpc2292sodimm/lowlevel_init.S
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/lpc2292sodimm/flash.c
+END

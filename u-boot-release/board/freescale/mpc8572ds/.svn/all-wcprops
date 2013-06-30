@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8572ds
+END
+tlb.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8572ds/tlb.c
+END
+law.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8572ds/law.c
+END
+ddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8572ds/ddr.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8572ds/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8572ds/Makefile
+END
+mpc8572ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8572ds/mpc8572ds.c
+END

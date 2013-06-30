@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/post/lib_ppc/fpu
+END
+980619-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/post/lib_ppc/fpu/980619-1.c
+END
+20001122-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/post/lib_ppc/fpu/20001122-1.c
+END
+20010114-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/post/lib_ppc/fpu/20010114-2.c
+END
+acc1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/post/lib_ppc/fpu/acc1.c
+END
+compare-fp-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/post/lib_ppc/fpu/compare-fp-1.c
+END
+20010226-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/post/lib_ppc/fpu/20010226-1.c
+END
+fpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/post/lib_ppc/fpu/fpu.c
+END
+mul-subnormal-single-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esi/!svn/ver/3/Linux/U-boot/post/lib_ppc/fpu/mul-subnormal-single-1.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/post/lib_ppc/fpu/Makefile
+END

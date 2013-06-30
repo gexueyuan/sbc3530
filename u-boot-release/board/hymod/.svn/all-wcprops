@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/input.c
+END
+hymod.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/hymod.c
+END
+flash.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/flash.h
+END
+bsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/bsp.c
+END
+hymod.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/hymod.h
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/u-boot.lds
+END
+eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/eeprom.c
+END
+global_env
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/global_env
+END
+env.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/env.c
+END
+fetch.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/fetch.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/config.mk
+END
+u-boot.lds.debug
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/u-boot.lds.debug
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/board/hymod/flash.c
+END

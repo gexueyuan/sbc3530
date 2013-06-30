@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tqc/tqm834x
+END
+tqm834x.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tqc/tqm834x/tqm834x.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tqc/tqm834x/config.mk
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tqc/tqm834x/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/board/tqc/tqm834x/Makefile
+END

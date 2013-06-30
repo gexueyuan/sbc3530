@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi
+END
+build.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/build.c
+END
+ubi-media.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/ubi-media.h
+END
+vmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/vmt.c
+END
+vtbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/vtbl.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/io.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/crc32.c
+END
+wl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/wl.c
+END
+crc32defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/crc32defs.h
+END
+kapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/kapi.c
+END
+scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/scan.c
+END
+ubi.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/ubi.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/debug.c
+END
+eba.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/eba.c
+END
+upd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/upd.c
+END
+crc32table.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/crc32table.h
+END
+scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/scan.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/misc.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/debug.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/mtd/ubi/Makefile
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/nios
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/nios/interrupts.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/nios/serial.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/nios/cpu.c
+END
+asmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/nios/asmi.c
+END
+traps.S
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/nios/traps.S
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/nios/config.mk
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/nios/spi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/nios/Makefile
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/nios/start.S
+END

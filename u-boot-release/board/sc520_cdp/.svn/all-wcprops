@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/board/sc520_cdp
+END
+sc520_cdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/sc520_cdp/sc520_cdp.c
+END
+sc520_cdp_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/sc520_cdp/sc520_cdp_asm.S
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/board/sc520_cdp/u-boot.lds
+END
+sc520_cdp_asm16.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/sc520_cdp/sc520_cdp_asm16.S
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/sc520_cdp/config.mk
+END
+flash_old.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/sc520_cdp/flash_old.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/board/sc520_cdp/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/sc520_cdp/flash.c
+END
+sc520_cdp_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/sc520_cdp/sc520_cdp_pci.c
+END

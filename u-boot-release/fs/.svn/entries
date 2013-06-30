@@ -1,0 +1,64 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/fs
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+ext2
+dir
+
+reiserfs
+dir
+
+ubifs
+dir
+
+fat
+dir
+
+jffs2
+dir
+
+yaffs2
+dir
+
+cramfs
+dir
+
+fdos
+dir
+
+Makefile
+file
+
+
+
+
+2010-08-05T02:22:27.000000Z
+76b65d56d1a6e3be6b203fd5ea9743c5
+2010-07-19T02:33:29.666821Z
+3
+illidan
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/nand_spl/board/freescale/mpc8313erdb
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esi/!svn/ver/3/Linux/U-boot/nand_spl/board/freescale/mpc8313erdb/u-boot.lds
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esi/!svn/ver/3/Linux/U-boot/nand_spl/board/freescale/mpc8313erdb/Makefile
+END

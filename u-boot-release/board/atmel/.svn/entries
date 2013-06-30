@@ -1,0 +1,58 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/board/atmel
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+at91sam9260ek
+dir
+
+at91sam9261ek
+dir
+
+atngw100
+dir
+
+at91sam9263ek
+dir
+
+at91sam9m10g45ek
+dir
+
+at91sam9rlek
+dir
+
+at91rm9200dk
+dir
+
+atstk1000
+dir
+
+at91rm9200ek
+dir
+
+at91cap9adk
+dir
+

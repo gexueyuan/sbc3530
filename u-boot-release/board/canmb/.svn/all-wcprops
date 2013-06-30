@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/esi/!svn/ver/3/Linux/U-boot/board/canmb
+END
+canmb.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/board/canmb/canmb.c
+END
+mt48lc16m32s2-75.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/canmb/mt48lc16m32s2-75.h
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/board/canmb/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/board/canmb/Makefile
+END

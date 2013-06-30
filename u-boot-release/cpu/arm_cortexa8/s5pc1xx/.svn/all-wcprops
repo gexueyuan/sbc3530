@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm_cortexa8/s5pc1xx
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm_cortexa8/s5pc1xx/timer.c
+END
+cpu_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm_cortexa8/s5pc1xx/cpu_info.c
+END
+reset.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm_cortexa8/s5pc1xx/reset.S
+END
+cache.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm_cortexa8/s5pc1xx/cache.S
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm_cortexa8/s5pc1xx/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm_cortexa8/s5pc1xx/Makefile
+END

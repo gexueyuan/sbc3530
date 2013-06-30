@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8349itx
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8349itx/config.mk
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8349itx/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8349itx/Makefile
+END
+mpc8349itx.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8349itx/mpc8349itx.c
+END

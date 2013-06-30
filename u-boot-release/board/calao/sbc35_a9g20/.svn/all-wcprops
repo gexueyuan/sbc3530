@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/calao/sbc35_a9g20
+END
+sbc35_a9g20.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/calao/sbc35_a9g20/sbc35_a9g20.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/calao/sbc35_a9g20/config.mk
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/calao/sbc35_a9g20/spi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/calao/sbc35_a9g20/Makefile
+END

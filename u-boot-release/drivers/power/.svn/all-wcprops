@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/power
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/power/Makefile
+END
+twl4030.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/power/twl4030.c
+END

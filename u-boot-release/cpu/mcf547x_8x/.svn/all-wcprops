@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mcf547x_8x
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mcf547x_8x/interrupts.c
+END
+slicetimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mcf547x_8x/slicetimer.c
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mcf547x_8x/speed.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mcf547x_8x/cpu.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mcf547x_8x/config.mk
+END
+cpu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mcf547x_8x/cpu_init.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mcf547x_8x/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mcf547x_8x/Makefile
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mcf547x_8x/start.S
+END

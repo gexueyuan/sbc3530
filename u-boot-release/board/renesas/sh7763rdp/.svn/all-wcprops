@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/renesas/sh7763rdp
+END
+sh7763rdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/renesas/sh7763rdp/sh7763rdp.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/renesas/sh7763rdp/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/renesas/sh7763rdp/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esi/!svn/ver/3/Linux/U-boot/board/renesas/sh7763rdp/lowlevel_init.S
+END

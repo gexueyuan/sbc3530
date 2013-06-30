@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_enet
+END
+xemac.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_enet/xemac.h
+END
+xemac_g.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_enet/xemac_g.c
+END
+emac_adapter.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_enet/emac_adapter.c
+END
+xemac_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_enet/xemac_options.c
+END
+xemac_intr.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_enet/xemac_intr.c
+END
+xemac_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_enet/xemac_i.h
+END
+xemac_intr_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_enet/xemac_intr_dma.c
+END
+xemac_polled.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_enet/xemac_polled.c
+END
+xemac.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_enet/xemac.c
+END
+xemac_l.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_enet/xemac_l.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/miromico/hammerhead
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/board/miromico/hammerhead/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/miromico/hammerhead/config.mk
+END
+hammerhead.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esi/!svn/ver/3/Linux/U-boot/board/miromico/hammerhead/hammerhead.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/board/miromico/hammerhead/Makefile
+END

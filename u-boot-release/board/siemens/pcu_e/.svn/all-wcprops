@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/board/siemens/pcu_e
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/siemens/pcu_e/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/siemens/pcu_e/config.mk
+END
+u-boot.lds.debug
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/board/siemens/pcu_e/u-boot.lds.debug
+END
+pcu_e.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/siemens/pcu_e/pcu_e.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/board/siemens/pcu_e/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/siemens/pcu_e/flash.c
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi
+END
+mpc52xx_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/mpc52xx_spi.c
+END
+atmel_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/atmel_spi.h
+END
+mxc_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/mxc_spi.c
+END
+cf_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/cf_spi.c
+END
+atmel_dataflash_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/atmel_dataflash_spi.c
+END
+kirkwood_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/kirkwood_spi.c
+END
+soft_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/soft_spi.c
+END
+davinci_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/davinci_spi.c
+END
+bfin_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/bfin_spi.c
+END
+mpc8xxx_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/mpc8xxx_spi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/Makefile
+END
+atmel_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/atmel_spi.c
+END
+davinci_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/spi/davinci_spi.h
+END

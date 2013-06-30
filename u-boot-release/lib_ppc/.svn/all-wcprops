@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc
+END
+bat_rw.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/bat_rw.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/time.c
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/interrupts.c
+END
+bootm.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/bootm.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/cache.c
+END
+extable.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/extable.c
+END
+reloc.S
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/reloc.S
+END
+ppccache.S
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/ppccache.S
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/board.c
+END
+kgdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/kgdb.c
+END
+ppcstring.S
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/ppcstring.S
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/Makefile
+END
+ticks.S
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_ppc/ticks.S
+END

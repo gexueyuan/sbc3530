@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx
+END
+usb_ohci.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/usb_ohci.h
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/speed.c
+END
+ide.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/ide.c
+END
+loadtask.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/loadtask.c
+END
+firmware_sc_task.impl.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/firmware_sc_task.impl.S
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/u-boot.lds
+END
+cpu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/cpu_init.c
+END
+u-boot-customlayout.lds
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/u-boot-customlayout.lds
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/i2c.c
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/start.S
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/interrupts.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/serial.c
+END
+pci_mpc5200.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/pci_mpc5200.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/cpu.c
+END
+io.S
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/io.S
+END
+traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/traps.c
+END
+usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/usb.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/config.mk
+END
+usb_ohci.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/usb_ohci.c
+END
+firmware_sc_task_bestcomm.impl.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/firmware_sc_task_bestcomm.impl.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc5xxx/Makefile
+END

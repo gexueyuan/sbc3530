@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_sh
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_sh/time.c
+END
+bootm.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_sh/bootm.c
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_sh/board.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_sh/config.mk
+END
+time_sh2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_sh/time_sh2.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/lib_sh/Makefile
+END

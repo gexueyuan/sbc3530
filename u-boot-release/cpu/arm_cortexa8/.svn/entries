@@ -1,0 +1,94 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/cpu/arm_cortexa8
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+omap3
+dir
+
+u-boot.lds
+file
+
+
+
+
+2010-08-05T02:22:11.000000Z
+f7efed752b42f367711e6b3a9d110ea1
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+cpu.c
+file
+
+
+
+
+2010-08-05T02:22:11.000000Z
+9a226748b963731f227f11e4ac8f2892
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+s5pc1xx
+dir
+
+config.mk
+file
+
+
+
+
+2010-08-05T02:22:11.000000Z
+c8270d03a2fc58be7062c8417de6d44f
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+Makefile
+file
+
+
+
+
+2010-08-05T02:22:11.000000Z
+96c66f570f36894dfc9cc08cf9ef00ba
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+start.S
+file
+
+
+
+
+2010-08-05T02:22:11.000000Z
+1eee2a5fa48cf01fa31106dc67e464ec
+2010-07-19T02:33:29.666821Z
+3
+illidan
+

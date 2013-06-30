@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin
+END
+skproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skproc.c
+END
+uboot_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/uboot_drv.c
+END
+skcsum.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skcsum.c
+END
+skxmac2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skxmac2.c
+END
+skaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skaddr.c
+END
+ski2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/ski2c.c
+END
+skgehwt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skgehwt.c
+END
+skrlmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skrlmt.c
+END
+u-boot_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/u-boot_compat.h
+END
+skgeinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skgeinit.c
+END
+skgepnmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skgepnmi.c
+END
+sklm80.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/sklm80.c
+END
+sktimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/sktimer.c
+END
+skgemib.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skgemib.c
+END
+skqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skqueue.c
+END
+skvpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skvpd.c
+END
+uboot_skb.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/uboot_skb.c
+END
+skgesirq.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skgesirq.c
+END
+skge.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/skge.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/net/sk98lin/Makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/i386/sc520
+END
+sc520_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/i386/sc520/sc520_pci.c
+END
+sc520_ssi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/i386/sc520/sc520_ssi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/i386/sc520/Makefile
+END
+sc520.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/i386/sc520/sc520.c
+END
+sc520_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/i386/sc520/sc520_asm.S
+END
+sc520_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/i386/sc520/sc520_timer.c
+END

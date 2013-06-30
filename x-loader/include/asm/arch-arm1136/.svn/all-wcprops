@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-arm1136
+END
+sys_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-arm1136/sys_info.h
+END
+sizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-arm1136/sizes.h
+END
+clocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-arm1136/clocks.h
+END
+clocks242x.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-arm1136/clocks242x.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-arm1136/mem.h
+END
+clocks243x.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-arm1136/clocks243x.h
+END
+bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-arm1136/bits.h
+END
+omap2420.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-arm1136/omap2420.h
+END
+omap2430.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ema3530/!svn/ver/11/software/x-loader/include/asm/arch-arm1136/omap2430.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esi/!svn/ver/3/Linux/U-boot/board/netstal/mcu25
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/netstal/mcu25/README.txt
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/netstal/mcu25/config.mk
+END
+mcu25.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/netstal/mcu25/mcu25.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/board/netstal/mcu25/Makefile
+END

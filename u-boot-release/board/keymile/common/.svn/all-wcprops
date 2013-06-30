@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esi/!svn/ver/3/Linux/U-boot/board/keymile/common
+END
+keymile_hdlc_enet.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/board/keymile/common/keymile_hdlc_enet.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/keymile/common/common.c
+END
+keymile_hdlc_enet.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/board/keymile/common/keymile_hdlc_enet.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/keymile/common/common.h
+END

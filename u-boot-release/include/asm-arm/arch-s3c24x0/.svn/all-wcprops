@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-s3c24x0
+END
+s3c24x0_cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-s3c24x0/s3c24x0_cpu.h
+END
+s3c2400.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-s3c24x0/s3c2400.h
+END
+s3c2410.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-s3c24x0/s3c2410.h
+END
+s3c24x0.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-s3c24x0/s3c24x0.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-s3c24x0/memory.h
+END

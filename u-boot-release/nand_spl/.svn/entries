@@ -1,0 +1,67 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/nand_spl
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+nand_boot.c
+file
+
+
+
+
+2010-08-05T02:24:52.000000Z
+26a2868dd629d4649e2626a5de229d71
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+board
+dir
+
+nand_boot_fsl_elbc.c
+file
+
+
+
+
+2010-08-05T02:24:52.000000Z
+5696dcd34d44d583b5297faebf93ab33
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+nand_boot_fsl_nfc.c
+file
+
+
+
+
+2010-08-05T02:24:52.000000Z
+b5a4c3f0e75c025c37d3582a92b55c38
+2010-07-19T02:33:29.666821Z
+3
+illidan
+

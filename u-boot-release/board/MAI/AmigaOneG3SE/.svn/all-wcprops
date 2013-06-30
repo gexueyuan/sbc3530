@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE
+END
+smbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/smbus.h
+END
+usb_uhci.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/usb_uhci.c
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/todo.txt
+END
+AmigaOneG3SE.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/AmigaOneG3SE.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/u-boot.lds
+END
+usb_uhci.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/usb_uhci.h
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/serial.c
+END
+via686.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/via686.c
+END
+nvram.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/nvram.c
+END
+ps2kbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/ps2kbd.c
+END
+memio.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/memio.S
+END
+cmd_boota.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/cmd_boota.c
+END
+via686.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/via686.h
+END
+ps2kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/ps2kbd.h
+END
+board_asm_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/board_asm_init.S
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/Makefile
+END
+articiaS.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/articiaS.c
+END
+articiaS.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/articiaS.h
+END
+video.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/video.c
+END
+flash_new.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/flash_new.c
+END
+memio.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/memio.h
+END
+memory_dump
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/memory_dump
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/interrupts.c
+END
+i8259.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/i8259.c
+END
+i8259.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/i8259.h
+END
+short_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/short_types.h
+END
+macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/macros.h
+END
+smbus.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/smbus.c
+END
+articiaS_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/articiaS_pci.c
+END
+start.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/start.txt
+END
+enet.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/enet.c
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/MAI/AmigaOneG3SE/flash.c
+END

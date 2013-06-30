@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8323erdb
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8323erdb/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8323erdb/Makefile
+END
+mpc8323erdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8323erdb/mpc8323erdb.c
+END

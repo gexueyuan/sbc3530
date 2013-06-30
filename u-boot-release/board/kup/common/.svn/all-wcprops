@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/board/kup/common
+END
+kup.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/kup/common/kup.c
+END
+load_sernum_ethaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esi/!svn/ver/3/Linux/U-boot/board/kup/common/load_sernum_ethaddr.c
+END
+kup.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/kup/common/kup.h
+END
+pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/board/kup/common/pcmcia.c
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/board/kup/common/flash.c
+END

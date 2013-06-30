@@ -1,0 +1,172 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/board/freescale
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+mpc5121ads
+dir
+
+m5253demo
+dir
+
+mpc837xemds
+dir
+
+mpc7448hpc2
+dir
+
+mpc8260ads
+dir
+
+p2020ds
+dir
+
+mpc8541cds
+dir
+
+mpc8323erdb
+dir
+
+mpc8536ds
+dir
+
+mpc8572ds
+dir
+
+mpc8266ads
+dir
+
+mpc8555cds
+dir
+
+mpc8360erdk
+dir
+
+mpc8360emds
+dir
+
+m5282evb
+dir
+
+mpc8641hpcn
+dir
+
+m5373evb
+dir
+
+m5329evb
+dir
+
+m5208evbe
+dir
+
+mpc832xemds
+dir
+
+mpc8569mds
+dir
+
+mx31ads
+dir
+
+mpc8349emds
+dir
+
+m547xevb
+dir
+
+m548xevb
+dir
+
+mx31pdk
+dir
+
+mpc8540ads
+dir
+
+common
+dir
+
+m53017evb
+dir
+
+mpc8560ads
+dir
+
+mpc8313erdb
+dir
+
+mpc8544ds
+dir
+
+mpc8349itx
+dir
+
+m54451evb
+dir
+
+mpc8315erdb
+dir
+
+mpc8610hpcd
+dir
+
+m52277evb
+dir
+
+m54455evb
+dir
+
+m5272c3
+dir
+
+mpc8548cds
+dir
+
+mpc837xerdb
+dir
+
+m5235evb
+dir
+
+m5271evb
+dir
+
+p1_p2_rdb
+dir
+
+m5275evb
+dir
+
+m5249evb
+dir
+
+m5253evbe
+dir
+
+mpc8568mds
+dir
+

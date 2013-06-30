@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/usb/gadget
+END
+omap1510_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/usb/gadget/omap1510_udc.c
+END
+spr_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/usb/gadget/spr_udc.c
+END
+mpc8xx_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/usb/gadget/mpc8xx_udc.c
+END
+ep0.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/usb/gadget/ep0.c
+END
+pxa27x_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/usb/gadget/pxa27x_udc.c
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/usb/gadget/core.c
+END
+ep0.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/usb/gadget/ep0.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/usb/gadget/Makefile
+END

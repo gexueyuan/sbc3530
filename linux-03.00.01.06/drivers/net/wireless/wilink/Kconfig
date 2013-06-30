@@ -1,0 +1,16 @@
+#
+# Wireless LAN device configuration
+#
+config WILINK
+	tristate "Wilink 1271 Chip"
+	depends on  WL1271_WLAN
+	select WIRELESS_EXT
+	select CRYPTO
+	select WEXT_SPY
+	select WEXT_PRIV
+	---help---
+	This driver support both the standard Linux Wireless Extensions
+	and TI's proprietary API, so both the Linux Wireless Tools and this
+	module support 2.4 GHz 802.11 b/g/n standrd.
+
+source "drivers/net/wireless/wilink/external_drivers/Kconfig"

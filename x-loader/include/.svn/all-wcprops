@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ema3530/!svn/ver/11/software/x-loader/include
+END
+fat.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ema3530/!svn/ver/11/software/x-loader/include/fat.h
+END
+mmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ema3530/!svn/ver/11/software/x-loader/include/mmc.h
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ema3530/!svn/ver/11/software/x-loader/include/i2c.h
+END
+command.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ema3530/!svn/ver/11/software/x-loader/include/command.h
+END
+ide.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ema3530/!svn/ver/11/software/x-loader/include/ide.h
+END
+ns16550.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ema3530/!svn/ver/11/software/x-loader/include/ns16550.h
+END
+part.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ema3530/!svn/ver/11/software/x-loader/include/part.h
+END
+malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ema3530/!svn/ver/11/software/x-loader/include/malloc.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ema3530/!svn/ver/11/software/x-loader/include/common.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/renesas/ap325rxa
+END
+ap325rxa.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/renesas/ap325rxa/ap325rxa.c
+END
+cpld-ap325rxa.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esi/!svn/ver/3/Linux/U-boot/board/renesas/ap325rxa/cpld-ap325rxa.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/renesas/ap325rxa/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/board/renesas/ap325rxa/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esi/!svn/ver/3/Linux/U-boot/board/renesas/ap325rxa/lowlevel_init.S
+END

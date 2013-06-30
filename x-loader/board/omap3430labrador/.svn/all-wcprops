@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3430labrador
+END
+platform.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3430labrador/platform.S
+END
+x-load.lds
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3430labrador/x-load.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3430labrador/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3430labrador/Makefile
+END
+omap3430sdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3430labrador/omap3430sdp.c
+END

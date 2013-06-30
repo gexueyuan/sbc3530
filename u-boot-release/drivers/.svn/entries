@@ -1,0 +1,97 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/drivers
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+serial
+dir
+
+mtd
+dir
+
+net
+dir
+
+rtc
+dir
+
+hwmon
+dir
+
+usb
+dir
+
+twserial
+dir
+
+block
+dir
+
+spi
+dir
+
+misc
+dir
+
+pcmcia
+dir
+
+power
+dir
+
+gpio
+dir
+
+input
+dir
+
+watchdog
+dir
+
+dma
+dir
+
+bios_emulator
+dir
+
+qe
+dir
+
+video
+dir
+
+pci
+dir
+
+mmc
+dir
+
+i2c
+dir
+
+fpga
+dir
+

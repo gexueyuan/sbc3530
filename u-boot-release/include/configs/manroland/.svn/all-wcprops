@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/include/configs/manroland
+END
+mpc5200-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esi/!svn/ver/3/Linux/U-boot/include/configs/manroland/mpc5200-common.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/include/configs/manroland/common.h
+END

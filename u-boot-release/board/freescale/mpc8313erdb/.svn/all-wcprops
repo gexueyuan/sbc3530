@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8313erdb
+END
+sdram.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8313erdb/sdram.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8313erdb/config.mk
+END
+mpc8313erdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8313erdb/mpc8313erdb.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8313erdb/Makefile
+END

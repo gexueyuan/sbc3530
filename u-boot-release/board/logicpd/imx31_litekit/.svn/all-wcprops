@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/logicpd/imx31_litekit
+END
+imx31_litekit.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esi/!svn/ver/3/Linux/U-boot/board/logicpd/imx31_litekit/imx31_litekit.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/logicpd/imx31_litekit/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/board/logicpd/imx31_litekit/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esi/!svn/ver/3/Linux/U-boot/board/logicpd/imx31_litekit/lowlevel_init.S
+END

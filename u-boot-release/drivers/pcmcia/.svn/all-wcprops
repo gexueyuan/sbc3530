@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/pcmcia
+END
+ti_pci1410a.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/pcmcia/ti_pci1410a.c
+END
+i82365.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/pcmcia/i82365.c
+END
+mpc8xx_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/pcmcia/mpc8xx_pcmcia.c
+END
+pxa_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/pcmcia/pxa_pcmcia.c
+END
+marubun_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/pcmcia/marubun_pcmcia.c
+END
+rpx_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/pcmcia/rpx_pcmcia.c
+END
+tqm8xx_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/pcmcia/tqm8xx_pcmcia.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/pcmcia/Makefile
+END

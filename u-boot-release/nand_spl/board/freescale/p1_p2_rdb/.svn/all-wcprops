@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/nand_spl/board/freescale/p1_p2_rdb
+END
+nand_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esi/!svn/ver/3/Linux/U-boot/nand_spl/board/freescale/p1_p2_rdb/nand_boot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esi/!svn/ver/3/Linux/U-boot/nand_spl/board/freescale/p1_p2_rdb/Makefile
+END

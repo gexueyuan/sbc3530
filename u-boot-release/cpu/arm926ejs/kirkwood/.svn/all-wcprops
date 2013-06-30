@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/kirkwood
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/kirkwood/timer.c
+END
+dram.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/kirkwood/dram.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/kirkwood/cpu.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/kirkwood/Makefile
+END
+mpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/kirkwood/mpp.c
+END

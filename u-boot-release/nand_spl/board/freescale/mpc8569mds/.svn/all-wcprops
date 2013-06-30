@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/nand_spl/board/freescale/mpc8569mds
+END
+nand_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esi/!svn/ver/3/Linux/U-boot/nand_spl/board/freescale/mpc8569mds/nand_boot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esi/!svn/ver/3/Linux/U-boot/nand_spl/board/freescale/mpc8569mds/Makefile
+END

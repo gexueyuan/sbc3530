@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8641hpcn
+END
+law.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8641hpcn/law.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8641hpcn/u-boot.lds
+END
+ddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8641hpcn/ddr.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8641hpcn/config.mk
+END
+mpc8641hpcn.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8641hpcn/mpc8641hpcn.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/board/freescale/mpc8641hpcn/Makefile
+END

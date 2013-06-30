@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-mx31
+END
+mx31-regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-mx31/mx31-regs.h
+END
+mx31.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-mx31/mx31.h
+END

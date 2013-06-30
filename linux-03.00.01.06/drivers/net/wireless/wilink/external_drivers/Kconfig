@@ -1,0 +1,8 @@
+#
+# Wireless LAN device configuration
+#
+config OMAP3530
+	tristate "OMAP 3530 EVM"
+	depends on  WL1271_WLAN
+	---help---
+	This driver support foe OMAP 3530 EVM 

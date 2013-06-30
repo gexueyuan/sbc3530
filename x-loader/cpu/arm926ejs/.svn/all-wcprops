@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ema3530/!svn/ver/11/software/x-loader/cpu/arm926ejs
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ema3530/!svn/ver/11/software/x-loader/cpu/arm926ejs/cpu.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ema3530/!svn/ver/11/software/x-loader/cpu/arm926ejs/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ema3530/!svn/ver/11/software/x-loader/cpu/arm926ejs/Makefile
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ema3530/!svn/ver/11/software/x-loader/cpu/arm926ejs/start.S
+END

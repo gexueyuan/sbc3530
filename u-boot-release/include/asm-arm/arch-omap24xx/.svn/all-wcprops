@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-omap24xx
+END
+mux.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-omap24xx/mux.h
+END
+sys_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-omap24xx/sys_info.h
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-omap24xx/i2c.h
+END
+sizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-omap24xx/sizes.h
+END
+clocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-omap24xx/clocks.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-omap24xx/mem.h
+END
+bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-omap24xx/bits.h
+END
+sys_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-omap24xx/sys_proto.h
+END
+omap2420.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-omap24xx/omap2420.h
+END

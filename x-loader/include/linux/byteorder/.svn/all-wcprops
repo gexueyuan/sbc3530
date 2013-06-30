@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ema3530/!svn/ver/11/software/x-loader/include/linux/byteorder
+END
+little_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ema3530/!svn/ver/11/software/x-loader/include/linux/byteorder/little_endian.h
+END
+generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ema3530/!svn/ver/11/software/x-loader/include/linux/byteorder/generic.h
+END
+swab.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ema3530/!svn/ver/11/software/x-loader/include/linux/byteorder/swab.h
+END
+big_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ema3530/!svn/ver/11/software/x-loader/include/linux/byteorder/big_endian.h
+END

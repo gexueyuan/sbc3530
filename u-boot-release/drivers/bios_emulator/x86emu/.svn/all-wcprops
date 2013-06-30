@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/bios_emulator/x86emu
+END
+sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/bios_emulator/x86emu/sys.c
+END
+ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/bios_emulator/x86emu/ops.c
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/bios_emulator/x86emu/decode.c
+END
+ops2.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/bios_emulator/x86emu/ops2.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/bios_emulator/x86emu/debug.c
+END
+prim_ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esi/!svn/ver/3/Linux/U-boot/drivers/bios_emulator/x86emu/prim_ops.c
+END

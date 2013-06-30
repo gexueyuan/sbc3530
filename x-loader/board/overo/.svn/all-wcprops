@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ema3530/!svn/ver/11/software/x-loader/board/overo
+END
+platform.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ema3530/!svn/ver/11/software/x-loader/board/overo/platform.S
+END
+x-load.lds
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ema3530/!svn/ver/11/software/x-loader/board/overo/x-load.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ema3530/!svn/ver/11/software/x-loader/board/overo/config.mk
+END
+overo.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ema3530/!svn/ver/11/software/x-loader/board/overo/overo.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ema3530/!svn/ver/11/software/x-loader/board/overo/Makefile
+END

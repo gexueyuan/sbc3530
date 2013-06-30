@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ema3530/!svn/ver/11/software/x-loader/drivers
+END
+omap24xx_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ema3530/!svn/ver/11/software/x-loader/drivers/omap24xx_i2c.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ema3530/!svn/ver/11/software/x-loader/drivers/serial.c
+END
+ns16550.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ema3530/!svn/ver/11/software/x-loader/drivers/ns16550.c
+END
+onenand.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ema3530/!svn/ver/11/software/x-loader/drivers/onenand.c
+END
+onenand_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ema3530/!svn/ver/11/software/x-loader/drivers/onenand_regs.h
+END
+k9k1216.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ema3530/!svn/ver/11/software/x-loader/drivers/k9k1216.c
+END
+k9f5616.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ema3530/!svn/ver/11/software/x-loader/drivers/k9f5616.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ema3530/!svn/ver/33/software/x-loader/drivers/Makefile
+END
+k9f1g08r0a.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ema3530/!svn/ver/11/software/x-loader/drivers/k9f1g08r0a.c
+END

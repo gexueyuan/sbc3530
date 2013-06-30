@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common
+END
+cmd_loadpci.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/cmd_loadpci.c
+END
+s1d13705_320_240_8bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/s1d13705_320_240_8bpp.h
+END
+s1d13806_1024_768_8bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/s1d13806_1024_768_8bpp.h
+END
+lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/lcd.c
+END
+lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/lcd.h
+END
+auto_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/auto_update.c
+END
+s1d13806_640_480_8bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/s1d13806_640_480_8bpp.h
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/pci.c
+END
+fpga.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/fpga.c
+END
+auto_update.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/auto_update.h
+END
+s1d13505_640_480_16bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/s1d13505_640_480_16bpp.h
+END
+esd405ep_nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/esd405ep_nand.c
+END
+s1d13704_320_240_4bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/s1d13704_320_240_4bpp.h
+END
+s1d13806_640_480_16bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/s1d13806_640_480_16bpp.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/misc.c
+END
+s1d13806_320_240_4bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/s1d13806_320_240_4bpp.h
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/board/esd/common/flash.c
+END

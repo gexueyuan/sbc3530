@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/esi/!svn/ver/12/Linux/U-boot
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/esi/!svn/ver/3/Linux/U-boot/rules.mk
+END
+MAKEALL
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/esi/!svn/ver/3/Linux/U-boot/MAKEALL
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/esi/!svn/ver/3/Linux/U-boot/CHANGELOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/esi/!svn/ver/3/Linux/U-boot/COPYING
+END
+CHANGELOG-before-U-Boot-1.1.5
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/CHANGELOG-before-U-Boot-1.1.5
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/esi/!svn/ver/3/Linux/U-boot/MAINTAINERS
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/esi/!svn/ver/3/Linux/U-boot/config.mk
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/esi/!svn/ver/3/Linux/U-boot/CREDITS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/esi/!svn/ver/3/Linux/U-boot/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/esi/!svn/ver/3/Linux/U-boot/README
+END
+mkconfig
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/esi/!svn/ver/3/Linux/U-boot/mkconfig
+END

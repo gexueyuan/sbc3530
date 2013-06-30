@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esi/!svn/ver/3/Linux/U-boot/board/Marvell/mv88f6281gtw_ge
+END
+kwbimage.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esi/!svn/ver/3/Linux/U-boot/board/Marvell/mv88f6281gtw_ge/kwbimage.cfg
+END
+mv88f6281gtw_ge.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esi/!svn/ver/3/Linux/U-boot/board/Marvell/mv88f6281gtw_ge/mv88f6281gtw_ge.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esi/!svn/ver/3/Linux/U-boot/board/Marvell/mv88f6281gtw_ge/config.mk
+END
+mv88f6281gtw_ge.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esi/!svn/ver/3/Linux/U-boot/board/Marvell/mv88f6281gtw_ge/mv88f6281gtw_ge.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esi/!svn/ver/3/Linux/U-boot/board/Marvell/mv88f6281gtw_ge/Makefile
+END

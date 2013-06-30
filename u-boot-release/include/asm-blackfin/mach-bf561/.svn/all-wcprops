@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-blackfin/mach-bf561
+END
+anomaly.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-blackfin/mach-bf561/anomaly.h
+END
+BF561_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-blackfin/mach-bf561/BF561_def.h
+END
+BF561_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-blackfin/mach-bf561/BF561_cdef.h
+END
+ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-blackfin/mach-bf561/ports.h
+END
+def_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-blackfin/mach-bf561/def_local.h
+END

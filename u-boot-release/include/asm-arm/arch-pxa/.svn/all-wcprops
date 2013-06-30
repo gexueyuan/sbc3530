@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-pxa
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-pxa/hardware.h
+END
+bitfield.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-pxa/bitfield.h
+END
+pxa-regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-pxa/pxa-regs.h
+END

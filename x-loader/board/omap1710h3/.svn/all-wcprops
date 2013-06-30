@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap1710h3
+END
+omap1710h3.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap1710h3/omap1710h3.c
+END
+platform.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap1710h3/platform.S
+END
+x-load.lds
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap1710h3/x-load.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap1710h3/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap1710h3/Makefile
+END

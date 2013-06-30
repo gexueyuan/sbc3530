@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-ixp
+END
+ixp425.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-ixp/ixp425.h
+END
+ixp425pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-ixp/ixp425pci.h
+END

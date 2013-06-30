@@ -1,0 +1,54 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/nand_spl/board/freescale/mpc8569mds
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+nand_boot.c
+file
+
+
+
+
+2010-08-05T02:24:50.000000Z
+5ce6db7ef72f41806f974c71f905d92d
+2010-07-19T02:33:29.666821Z
+3
+illidan
+has-props
+
+Makefile
+file
+
+
+
+
+2010-08-05T02:24:50.000000Z
+f12c671c33d8929f7eb28844d70d4579
+2010-07-19T02:33:29.666821Z
+3
+illidan
+has-props
+

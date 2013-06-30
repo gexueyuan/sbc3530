@@ -1,0 +1,49 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/board/renesas
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+r7780mp
+dir
+
+ap325rxa
+dir
+
+sh7785lcr
+dir
+
+sh7763rdp
+dir
+
+r2dplus
+dir
+
+rsk7203
+dir
+
+MigoR
+dir
+

@@ -1,3 +1,11 @@
+#c/c++
+*.o
+*.bin
+*.hex
+*.img
+#kernel
+
+
 # built application files
 *.apk
 *.ap_

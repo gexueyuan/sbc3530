@@ -1,0 +1,163 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/cpu
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+mcf5445x
+dir
+
+leon2
+dir
+
+leon3
+dir
+
+arm926ejs
+dir
+
+mcf52x2
+dir
+
+ppc4xx
+dir
+
+microblaze
+dir
+
+mcf532x
+dir
+
+pxa
+dir
+
+arm1136
+dir
+
+mpc8220
+dir
+
+sh2
+dir
+
+sh3
+dir
+
+arm1176
+dir
+
+sh4
+dir
+
+mpc8260
+dir
+
+ixp
+dir
+
+arm925t
+dir
+
+sa1100
+dir
+
+mpc824x
+dir
+
+nios
+dir
+
+mips
+dir
+
+blackfin
+dir
+
+arm946es
+dir
+
+mpc83xx
+dir
+
+mpc85xx
+dir
+
+mpc86xx
+dir
+
+mpc8xxx
+dir
+
+74xx_7xx
+dir
+
+s3c44b0
+dir
+
+mpc5xx
+dir
+
+mcf523x
+dir
+
+lh7a40x
+dir
+
+mpc8xx
+dir
+
+i386
+dir
+
+at32ap
+dir
+
+nios2
+dir
+
+arm720t
+dir
+
+arm_cortexa8
+dir
+
+arm920t
+dir
+
+mpc512x
+dir
+
+arm_intcm
+dir
+
+mpc5xxx
+dir
+
+mcf547x_8x
+dir
+
+mcf5227x
+dir
+

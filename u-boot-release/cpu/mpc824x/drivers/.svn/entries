@@ -1,0 +1,70 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/cpu/mpc824x/drivers
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+epic
+dir
+
+errors.h
+file
+
+
+
+
+2010-08-05T02:22:04.000000Z
+9231f27e7d50a7140c8c5ceb2df41fdd
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+i2c_export.h
+file
+
+
+
+
+2010-08-05T02:22:04.000000Z
+6a319e4e170da7ade14d28e09a048520
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+epic.h
+file
+
+
+
+
+2010-08-05T02:22:04.000000Z
+ee507315b019b1bf2b50e89b3653fb13
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+i2c
+dir
+

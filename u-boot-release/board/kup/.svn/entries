@@ -1,0 +1,49 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/board/kup
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+common
+dir
+
+kup4x
+dir
+
+Makefile
+file
+
+
+
+
+2010-08-05T02:23:53.000000Z
+473c67ee06e9d7e445edd86fda42ebcc
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+kup4k
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc824x/drivers/epic
+END
+epicutil.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc824x/drivers/epic/epicutil.S
+END
+epic1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc824x/drivers/epic/epic1.c
+END
+epic2.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc824x/drivers/epic/epic2.S
+END
+epic.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc824x/drivers/epic/epic.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/mpc824x/drivers/epic/README
+END

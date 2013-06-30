@@ -1,0 +1,52 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/nand_spl/board/sheldon/simpc8313
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+u-boot.lds
+file
+
+
+
+
+2010-08-05T02:24:52.000000Z
+58c1d9486cbe65591c3fc43c13dc4f1c
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+Makefile
+file
+
+
+
+
+2010-08-05T02:24:52.000000Z
+a0db0f4bde4398f5ac21d4014af356d2
+2010-07-19T02:33:29.666821Z
+3
+illidan
+

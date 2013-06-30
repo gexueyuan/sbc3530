@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/timer.c
+END
+at91sam9260_devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/at91sam9260_devices.c
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/reset.c
+END
+at91sam9261_devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/at91sam9261_devices.c
+END
+led.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/led.c
+END
+at91sam9263_devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/at91sam9263_devices.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/cpu.c
+END
+at91sam9m10g45_devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/at91sam9m10g45_devices.c
+END
+at91sam9rl_devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/at91sam9rl_devices.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/config.mk
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/lowlevel_init.S
+END
+at91cap9_devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/cpu/arm926ejs/at91/at91cap9_devices.c
+END

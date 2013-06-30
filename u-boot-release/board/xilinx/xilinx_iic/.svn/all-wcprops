@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_iic
+END
+iic_adapter.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_iic/iic_adapter.c
+END
+xiic_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_iic/xiic_l.c
+END
+xiic_l.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/esi/!svn/ver/3/Linux/U-boot/board/xilinx/xilinx_iic/xiic_l.h
+END

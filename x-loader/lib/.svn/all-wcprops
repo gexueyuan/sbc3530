@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ema3530/!svn/ver/11/software/x-loader/lib
+END
+_umodsi3.S
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ema3530/!svn/ver/11/software/x-loader/lib/_umodsi3.S
+END
+div0.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ema3530/!svn/ver/11/software/x-loader/lib/div0.c
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ema3530/!svn/ver/11/software/x-loader/lib/printf.c
+END
+_udivsi3.S
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ema3530/!svn/ver/11/software/x-loader/lib/_udivsi3.S
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ema3530/!svn/ver/11/software/x-loader/lib/board.c
+END
+ecc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ema3530/!svn/ver/11/software/x-loader/lib/ecc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ema3530/!svn/ver/11/software/x-loader/lib/Makefile
+END

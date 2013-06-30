@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-at91rm9200
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-at91rm9200/hardware.h
+END
+AT91RM9200.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esi/!svn/ver/3/Linux/U-boot/include/asm-arm/arch-at91rm9200/AT91RM9200.h
+END

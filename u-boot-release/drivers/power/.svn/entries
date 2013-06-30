@@ -1,0 +1,54 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot/drivers/power
+https://www.svnchina.com/svn/esi
+
+
+
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+Makefile
+file
+
+
+
+
+2010-08-05T02:25:11.000000Z
+95f8d3ba8bf273fb0cd7cedf5c6da0df
+2010-07-19T02:33:29.666821Z
+3
+illidan
+has-props
+
+twl4030.c
+file
+
+
+
+
+2010-08-05T02:25:11.000000Z
+c8c7b8f62631782ac4ae626b0b890ff5
+2010-07-19T02:33:29.666821Z
+3
+illidan
+has-props
+

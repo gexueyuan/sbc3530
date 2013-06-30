@@ -1,0 +1,250 @@
+8
+
+dir
+12
+https://www.svnchina.com/svn/esi/Linux/U-boot
+https://www.svnchina.com/svn/esi
+
+
+
+2010-08-02T07:04:14.862813Z
+12
+kanxin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be6b2c52-c205-4137-97d4-015d8b0f5893
+
+lib_i386
+dir
+
+lib_nios2
+dir
+
+CHANGELOG
+file
+
+
+
+
+2010-08-05T02:25:15.000000Z
+d0c1f56d58da16811d8be0bf7c3829b4
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+cpu
+dir
+
+disk
+dir
+
+CREDITS
+file
+
+
+
+
+2010-08-05T02:25:15.000000Z
+d0509183e0597a987e2885e521761774
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+lib_sh
+dir
+
+tools
+dir
+
+lib_generic
+dir
+
+lib_arm
+dir
+
+doc
+dir
+
+lib_ppc
+dir
+
+fs
+dir
+
+COPYING
+file
+
+
+
+
+2010-08-05T02:25:15.000000Z
+4c6cde5df68eff615d36789dc18edd3b
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+config.mk
+file
+
+
+
+
+2010-08-05T02:25:15.000000Z
+f73fbcd7e0dc2faa687d4ef3be833999
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+lib_microblaze
+dir
+
+Makefile
+file
+
+
+
+
+2010-08-05T02:25:15.000000Z
+18066cffb145ae4dd9f4fafee07a7e53
+2010-07-19T02:33:29.666821Z
+3
+illidan
+has-props
+
+lib_avr32
+dir
+
+include
+dir
+
+post
+dir
+
+onenand_ipl
+dir
+
+net
+dir
+
+board
+dir
+
+common
+dir
+
+CHANGELOG-before-U-Boot-1.1.5
+file
+
+
+
+
+2010-08-05T02:25:15.000000Z
+1ef06d21627396bbb1a5698ea97fb0c4
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+README
+file
+
+
+
+
+2010-08-05T02:25:15.000000Z
+8d2afe9eaf3a77203765fe4b958e9dfa
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+mkconfig
+file
+
+
+
+
+2010-08-05T02:25:15.000000Z
+d390c3ec6e16e133990ec3bf14033570
+2010-07-19T02:33:29.666821Z
+3
+illidan
+has-props
+
+nand_spl
+dir
+
+lib_mips
+dir
+
+lib_nios
+dir
+
+lib_sparc
+dir
+
+lib_blackfin
+dir
+
+rules.mk
+file
+
+
+
+
+2010-08-05T02:25:15.000000Z
+4f0f27c9457380d18919aa64abaf32ac
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+libfdt
+dir
+
+MAKEALL
+file
+
+
+
+
+2010-08-05T02:25:15.000000Z
+158aac4a668066f771a7536c61c65516
+2010-07-19T02:33:29.666821Z
+3
+illidan
+has-props
+
+api
+dir
+
+MAINTAINERS
+file
+
+
+
+
+2010-08-05T02:25:15.000000Z
+b67873842cd8f0a0455650181bdb499c
+2010-07-19T02:33:29.666821Z
+3
+illidan
+
+lib_m68k
+dir
+
+drivers
+dir
+
+examples
+dir
+

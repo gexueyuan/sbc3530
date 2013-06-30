@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3evm
+END
+platform.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3evm/platform.S
+END
+x-load.lds
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3evm/x-load.lds
+END
+omap3evm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3evm/omap3evm.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3evm/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ema3530/!svn/ver/11/software/x-loader/board/omap3evm/Makefile
+END

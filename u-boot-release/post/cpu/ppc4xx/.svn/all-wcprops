@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esi/!svn/ver/3/Linux/U-boot/post/cpu/ppc4xx
+END
+ocm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/post/cpu/ppc4xx/ocm.c
+END
+watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esi/!svn/ver/3/Linux/U-boot/post/cpu/ppc4xx/watchdog.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/post/cpu/ppc4xx/cache.c
+END
+spr.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/post/cpu/ppc4xx/spr.c
+END
+cache_4xx.S
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esi/!svn/ver/3/Linux/U-boot/post/cpu/ppc4xx/cache_4xx.S
+END
+denali_ecc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esi/!svn/ver/3/Linux/U-boot/post/cpu/ppc4xx/denali_ecc.c
+END
+ether.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esi/!svn/ver/3/Linux/U-boot/post/cpu/ppc4xx/ether.c
+END
+fpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esi/!svn/ver/3/Linux/U-boot/post/cpu/ppc4xx/fpu.c
+END
+uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esi/!svn/ver/3/Linux/U-boot/post/cpu/ppc4xx/uart.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esi/!svn/ver/3/Linux/U-boot/post/cpu/ppc4xx/Makefile
+END
